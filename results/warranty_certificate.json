@@ -1,0 +1,17 @@
+{
+  "certificate_id": "WARRANTY-CERT-PUMP-01-BRG1-1791534696",
+  "asset_id": "PUMP-01-BRG1",
+  "oem_manufacturer": "Rexnord Bearings Inc.",
+  "warranty_status": "WARRANTY_VOID",
+  "violations": [
+    "Excess RPM: 3500.0 > OEM Limit 3000.0",
+    "Excess Load: 18.0 kN > OEM Limit 15.0 kN",
+    "Excess Temp: 95.0 C > OEM Limit 85.0 C"
+  ],
+  "peak_telemetry": {
+    "peak_rpm": 3500.0,
+    "peak_load_kn": 18.0,
+    "peak_temp_c": 95.0
+  },
+  "digital_signature": "4906d714daf458f18bf17ff2e3462fcf33036119a69363885bef5cbd4a6d717e"
+}

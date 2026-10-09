@@ -1,0 +1,35 @@
+[
+  {
+    "index": 0,
+    "timestamp": 1791534696.756944,
+    "data": {
+      "genesis": "IMS Bearing Audit Blockchain Genesis Block"
+    },
+    "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "hash": "a998fb0de50d567fef45f8ab696774b1905b845585054915889f1b4b0ed6f6fd"
+  },
+  {
+    "index": 1,
+    "timestamp": 1791534696.7570207,
+    "data": {
+      "asset_id": "PUMP-01-BRG1",
+      "health_index": 0.95,
+      "status": "HEALTHY",
+      "action_taken": "Normal inspection"
+    },
+    "previous_hash": "a998fb0de50d567fef45f8ab696774b1905b845585054915889f1b4b0ed6f6fd",
+    "hash": "57f5c0ae82b084fb143c565c9f5a7af71a9cc5ed402c727b3791465fb92c410d"
+  },
+  {
+    "index": 2,
+    "timestamp": 1791534696.7577553,
+    "data": {
+      "asset_id": "PUMP-01-BRG1",
+      "health_index": 0.42,
+      "status": "WARNING",
+      "action_taken": "Vibration surge recorded"
+    },
+    "previous_hash": "57f5c0ae82b084fb143c565c9f5a7af71a9cc5ed402c727b3791465fb92c410d",
+    "hash": "7ab734ea3b47ffe25f3e3eb1689aa3b65ff89f34b778343fb7711627fc608935"
+  }
+]

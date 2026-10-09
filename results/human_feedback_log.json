@@ -1,0 +1,8 @@
+[
+  {
+    "timestamp": "2026-10-09T08:29:45Z",
+    "asset_id": "PUMP-01-BRG1",
+    "feedback_type": "FALSE_POSITIVE",
+    "engineer_notes": "Vibration surge was caused by motor startup, not bearing failure."
+  }
+]

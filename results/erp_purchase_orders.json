@@ -1,0 +1,13 @@
+{
+  "purchase_order_id": "PO-1791533719",
+  "erp_system": "SAP S/4HANA PM/MM Module",
+  "timestamp": "2026-10-09T08:15:19Z",
+  "asset_id": "BRG-01",
+  "part_number": "REXNORD-ZA-2115",
+  "part_description": "Rexnord ZA-2115 Double Row Tapered Roller Bearing",
+  "quantity": 1,
+  "urgency": "HIGH - PREDICTIVE REPLACEMENT",
+  "predicted_rul_hours": 24.5,
+  "procurement_lead_time_hours": 48.0,
+  "delivery_address": "Main Processing Plant - Maintenance Bay 4"
+}

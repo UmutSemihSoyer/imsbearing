@@ -1,0 +1,8 @@
+{
+  "learning_rate": 0.0012,
+  "d_model": 64,
+  "nhead": 4,
+  "num_layers": 2,
+  "dropout": 0.1,
+  "best_rmse": 8.742
+}

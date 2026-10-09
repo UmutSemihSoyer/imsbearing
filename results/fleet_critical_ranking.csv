@@ -1,0 +1,6 @@
+asset_id,plant_line,rms_g,kurtosis,predicted_rul_hours,composite_risk_score,urgency_rank
+BRG-LINE3-TURB1,Power Turbine Line 3,0.68,9.8,6.2,198.26,1
+BRG-LINE4-FAN1,Exhaust Fan Line 4,0.45,7.2,15.0,130.33,2
+BRG-LINE2-COMP1,Air Compression Line 2,0.29,5.8,40.0,92.0,3
+BRG-LINE1-PUMP2,High Pressure Line 1,0.12,3.5,110.0,48.82,4
+BRG-LINE1-PUMP1,High Pressure Line 1,0.08,3.1,150.0,40.33,5

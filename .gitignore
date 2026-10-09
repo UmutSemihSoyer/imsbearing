@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Environments & IDEs
+.venv/
+venv/
+ENV/
+env/
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# MLflow & Experiment Tracking
+mlruns/
+*.db
+*.sqlite
+*.sqlite3
+
+# Large Data & Raw Datasets (NASA IMS raw files)
+data/*.csv
+data/*.zip
+data/*.txt
+data/*.bin
+!data/.gitkeep
+
+# Model weights & Binary Exports
+models/*.pth
+models/*.onnx
+models/*.bin
+models/*.pt
+models/*.pkl
+!models/.gitkeep
+
+# Logs & Temporary outputs
+*.log
+*.tmp
+temp/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Personal / Non-project files
+*.docx
